@@ -1,6 +1,8 @@
 # NOOBS
-### NOOB$
+##### NOOB$
 
+
+<img src="logo.png" width="250" height="200" />
 
 #### REPOSITORIO PARA VIDEOS DO CANAL VEMCOMPY DO YOUTUBE
 
